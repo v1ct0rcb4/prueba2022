@@ -14,3 +14,4 @@ else
     echo "No hay memoria libre"
     exit 1
 fi
+#cambio deshecho
